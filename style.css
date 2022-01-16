@@ -1,0 +1,24 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+}
+
+div {
+    max-width: 500px;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    box-shadow: 0 0 5px white;
+    color: white;
+    text-align: center;
+    margin-top: 15%;
+}
+
+p {
+    margin: 2rem;
+    font-size: 3rem;
+}
